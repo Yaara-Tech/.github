@@ -15,5 +15,5 @@ We are a team of creative and enthusiastic Software Developers, UI/UX Designers,
 
 ## - [RTU e-Learning](https://play.google.com/store/apps/details?id=com.rtu.elearning.app.yaaratech)
 
-<img src="https://user-images.githubusercontent.com/64513385/138896821-c526405e-bae4-4e7b-91e4-00d8d7c3ca44.png" alt="remote jobs" width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/64513385/139697975-6f0029dd-abc8-4e25-8228-923e6f0e0b10.png" alt="remote jobs" width="1000" height="500">
 
