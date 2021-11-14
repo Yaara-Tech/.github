@@ -1,4 +1,4 @@
-# YAARA TECH
+# Astechtic Pvt. Ltd.
 
 ## Making Technology friendly for You
 
